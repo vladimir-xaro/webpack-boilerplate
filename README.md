@@ -1,7 +1,6 @@
 # @xaro/webpack-boilerplate
 
-Webpack boilerplate with config for TypeScript, SCSS and Babel.
-Has developer and production configs
+Webpack boilerplate with config for TypeScript, SCSS and Babel.  Has developer and production configs
 
 ## Install
 
@@ -13,8 +12,8 @@ $ npm i
 
 ## Commands
 ```bash
-$ npm run watch			#dev webpack watch
-$ npm run build			#dev webpack build
+$ npm run watch		#dev webpack watch
+$ npm run build		#dev webpack build
 $ npm run watch:prod	#prod webpack watch
 $ npm run build:prod	#prod webpack build
 ```
