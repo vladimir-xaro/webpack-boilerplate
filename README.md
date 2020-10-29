@@ -7,7 +7,7 @@ Has developer and production configs
 ## Install
 
 ```bash
-$ git clone git@github.com:taniarascia/webpack-boilerplate
+$ git clone git@github.com:vladimir-xaro/webpack-boilerplate.git
 $ cd webpack-boilerplate
 $ npm i
 ```
