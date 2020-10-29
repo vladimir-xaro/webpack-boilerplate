@@ -1,6 +1,8 @@
 # @xaro/webpack-boilerplate
 
-Webpack boilerplate with config for TypeScript, SCSS and Babel.  Has developer and production configs
+Webpack boilerplate with config for TypeScript, SCSS and Babel.
+
+Has developer and production configs
 
 ## Install
 
